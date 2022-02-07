@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo_HJ", "ToDo_HJ\ToDo_HJ.csproj", "{533C47EB-AB83-4A92-9EB1-23C1FAAD2F5B}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Base_de_Dados", "Base de Dados\Base_de_Dados.sqlproj", "{4DD81732-9BB1-473F-A793-D0CB64AFE7C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{533C47EB-AB83-4A92-9EB1-23C1FAAD2F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{533C47EB-AB83-4A92-9EB1-23C1FAAD2F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{533C47EB-AB83-4A92-9EB1-23C1FAAD2F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{533C47EB-AB83-4A92-9EB1-23C1FAAD2F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DD81732-9BB1-473F-A793-D0CB64AFE7C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD81732-9BB1-473F-A793-D0CB64AFE7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD81732-9BB1-473F-A793-D0CB64AFE7C0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4DD81732-9BB1-473F-A793-D0CB64AFE7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD81732-9BB1-473F-A793-D0CB64AFE7C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DD81732-9BB1-473F-A793-D0CB64AFE7C0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26657B04-2291-40EE-9A6A-6B42A68340C8}
+	EndGlobalSection
+EndGlobal
